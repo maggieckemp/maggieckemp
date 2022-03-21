@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maggieckemp
 - 👀 I’m interested in quantitative ecology and geospatial modeling
 - 🌱 I’m currently learning how to make basic species distibution maps using GIS and R
-- 💞️ I’m looking to collaborate on any advice for a newbie coder and any suggestions for what projects to look into next.
+- 💞️ I’m looking for advice on what projects and techniques to learn for a newbie in this field.
 - 📫 How to reach me: maggieckemp@gmail.com
 
 <!---
